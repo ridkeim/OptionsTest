@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">OptionsTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="choose_item">Choose Item in Menu</string>
+    <string name="choose_result">You chose: %s</string>
+    <string name="action_item1">Item 1</string>
+    <string name="action_item2">Item 2</string>
+    <string name="action_item3">Item 3</string>
+    <string name="action_nothing">Nothing</string>
+</resources>
